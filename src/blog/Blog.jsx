@@ -24,7 +24,7 @@ export const Blog = () => {
             amet corporis nostrum eaque possimus
           </p>
 
-          <a className="more-link">
+          <a className="more-link-will-go-here">
             <span>Read More</span>
             <img src={rightArrow} alt="" />
           </a>
@@ -42,7 +42,7 @@ export const Blog = () => {
             perspiciatis quaerat molestiae ducimus.
           </p>
 
-          <a className="more-link">
+          <a className="more-link-will-go-here">
             <span>Read More</span>
             <img src={rightArrow} alt="" />
           </a>
@@ -59,7 +59,7 @@ export const Blog = () => {
             amet corporis nostrum eaque possimus tempora error,
           </p>
 
-          <a className="more-link">
+          <a className="more-link-will-go-here">
             <span>Read More</span>
             <img src={rightArrow} alt="" />
           </a>
