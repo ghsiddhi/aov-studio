@@ -1,8 +1,8 @@
 import React from "react";
-import rightArrow from "../images/icons/right-arrow.png";
-import one from "../images/blog/1.webp";
-import two from "../images/blog/2.webp";
-import three from "../images/blog/3.webp";
+import rightArrow from "../assets/icons/right-arrow.png";
+import one from "../assets/blog/1.webp";
+import two from "../assets/blog/2.webp";
+import three from "../assets/blog/3.webp";
 import "./blogStyles.css";
 
 export const Blog = () => {

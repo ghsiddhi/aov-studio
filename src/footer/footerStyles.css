@@ -22,6 +22,12 @@ footer h2 {
   margin-bottom: 0.6rem;
 }
 
+nav ul,
+.footer-services ul {
+  list-style-type: none;
+  padding: 0;
+}
+
 @media (max-width: 40rem) {
   footer .contained {
     flex-direction: column;

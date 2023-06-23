@@ -1,7 +1,6 @@
 import React from "react";
-import hero from "../images/hero/hero.webp";
-import heroCropped from "../images/hero/hero-cropped.webp";
-import "./heroStyles.css";
+import hero from "../assets/hero/hero.webp";
+import heroCropped from "../assets/hero/hero-cropped.webp";
 
 export const Hero = () => {
   return (
