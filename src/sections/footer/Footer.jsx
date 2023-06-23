@@ -17,7 +17,7 @@ export const Footer = () => {
         <section class="footer-address">
           <h2>Address</h2>
           <address>
-            AOV Studio
+            AOV Studios
             <br />
             Near Airport, Indore
             <br />

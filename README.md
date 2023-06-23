@@ -1,4 +1,4 @@
-# AOV Studio
+# AOV Studios
 
 This project is the official website created for AOV Studios firm.
 
