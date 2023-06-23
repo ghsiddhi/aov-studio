@@ -17,18 +17,18 @@ export const Footer = () => {
         <section class="footer-address">
           <h2>Address</h2>
           <address>
-            lorem ipsum,
+            AOV Studio
             <br />
-            dolor sit,
+            Near Airport, Indore
             <br />
-            amet consectetur
+            MP, India
           </address>
         </section>
 
         <section class="footer-contact">
           <h2>Contact</h2>
-          <span>+9145343234349</span>
-          <span>lorem@gmail.com</span>
+          <span>Onal Kothari Bhagat</span>
+          <span>enter@email.com</span>
         </section>
       </div>
     </footer>
