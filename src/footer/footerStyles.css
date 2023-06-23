@@ -1,0 +1,30 @@
+footer {
+  background-color: var(--secondary-bg-color);
+  padding: 3rem 0;
+}
+
+footer .contained {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-address,
+.footer-contact {
+  flex-basis: max-content;
+}
+
+footer h2 {
+  margin-bottom: 1.5rem;
+}
+
+.footer-contact span {
+  display: block;
+  margin-bottom: 0.6rem;
+}
+
+@media (max-width: 40rem) {
+  footer .contained {
+    flex-direction: column;
+    gap: 3rem;
+  }
+}
