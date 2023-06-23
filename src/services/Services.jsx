@@ -30,7 +30,7 @@ export const Services = () => {
               eum animi itaque numquam repudiandae.
             </p>
 
-            <a class="more-link-will-go-here">
+            <a class="more-link">
               <span>Learn More</span>
               <img src={rightArrow} alt="" />
             </a>
@@ -64,7 +64,7 @@ export const Services = () => {
               eum animi itaque numquam repudiandae.
             </p>
 
-            <a class="more-link-will-go-here">
+            <a class="more-link">
               <span>Learn More</span>
               <img src={rightArrow} alt="" />
             </a>
@@ -98,7 +98,7 @@ export const Services = () => {
               eum animi itaque numquam repudiandae.
             </p>
 
-            <a class="more-link-will-go-here">
+            <a class="more-link">
               <span>Learn More</span>
               <img src={rightArrow} alt="" />
             </a>
