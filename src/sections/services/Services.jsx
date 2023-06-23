@@ -1,17 +1,17 @@
 import React from "react";
-import rightArrow from "../assets/icons/right-arrow.png";
-import architecture from "../assets/icons/architecture.png";
-import architectureServiceLarge from "../assets/architecture-service/architecture-service-large.webp";
-import architectureServiceMedium from "../assets/architecture-service/architecture-service-medium.webp";
-import architectureServiceSmall from "../assets/architecture-service/architecture-service-small.webp";
-import interior from "../assets/icons/interior.png";
-import interiorDesignServiceLarge from "../assets/interior-design-service/interior-design-service-large.webp";
-import interiorDesignServiceMedium from "../assets/interior-design-service/interior-design-service-medium.webp";
-import interiorDesignServiceSmall from "../assets/interior-design-service/interior-design-service-small.webp";
-import renovation from "../assets/icons/renovation.png";
-import renovationLarge from "../assets/renovation-service/renovation-large.webp";
-import renovationMedium from "../assets/renovation-service/renovation-medium.webp";
-import renovationSmall from "../assets/renovation-service/renovation-small.webp";
+import rightArrow from "../../assets/icons/right-arrow.png";
+import architecture from "../../assets/icons/architecture.png";
+import architectureServiceLarge from "../../assets/architecture-service/architecture-service-large.webp";
+import architectureServiceMedium from "../../assets/architecture-service/architecture-service-medium.webp";
+import architectureServiceSmall from "../../assets/architecture-service/architecture-service-small.webp";
+import interior from "../../assets/icons/interior.png";
+import interiorDesignServiceLarge from "../../assets/interior-design-service/interior-design-service-large.webp";
+import interiorDesignServiceMedium from "../../assets/interior-design-service/interior-design-service-medium.webp";
+import interiorDesignServiceSmall from "../../assets/interior-design-service/interior-design-service-small.webp";
+import renovation from "../../assets/icons/renovation.png";
+import renovationLarge from "../../assets/renovation-service/renovation-large.webp";
+import renovationMedium from "../../assets/renovation-service/renovation-medium.webp";
+import renovationSmall from "../../assets/renovation-service/renovation-small.webp";
 import "./servicesStyles.css";
 
 export const Services = () => {

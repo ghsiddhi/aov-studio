@@ -1,6 +1,6 @@
 import React from "react";
-import hero from "../assets/hero/hero.webp";
-import heroCropped from "../assets/hero/hero-cropped.webp";
+import hero from "../../assets/hero/hero.webp";
+import heroCropped from "../../assets/hero/hero-cropped.webp";
 
 export const Hero = () => {
   return (
