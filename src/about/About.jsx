@@ -1,13 +1,13 @@
 import React from "react";
-import sliderPrev from "../images/icons/slider-prev.png";
-import sliderNext from "../images/icons/slider-next.png";
-import slider1 from "../images/slider/1.webp";
-import slider2 from "../images/slider/2.webp";
-import slider3 from "../images/slider/3.webp";
-import slider4 from "../images/slider/4.webp";
-import slider5 from "../images/slider/5.webp";
-import slider6 from "../images/slider/6.webp";
-import slider7 from "../images/slider/7.webp";
+import sliderPrev from "../assets/icons/slider-prev.png";
+import sliderNext from "../assets/icons/slider-next.png";
+import slider1 from "../assets/slider/1.webp";
+import slider2 from "../assets/slider/2.webp";
+import slider3 from "../assets/slider/3.webp";
+import slider4 from "../assets/slider/4.webp";
+import slider5 from "../assets/slider/5.webp";
+import slider6 from "../assets/slider/6.webp";
+import slider7 from "../assets/slider/7.webp";
 import "./aboutStyles.css";
 
 export const About = () => {
