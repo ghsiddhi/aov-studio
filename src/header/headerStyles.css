@@ -1,0 +1,62 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 1.8rem;
+  padding-bottom: 1.8rem;
+}
+
+.logo {
+  font-size: 1.7rem;
+}
+
+.hamburger-menu,
+.close-menu {
+  cursor: pointer;
+}
+
+.hamburger-menu {
+  display: none;
+}
+
+.close-menu {
+  display: none;
+  font-size: 3rem;
+  text-align: right;
+}
+
+.close-menu.active {
+  display: block;
+}
+
+nav.active {
+  transform: translateX(0%);
+}
+
+nav ul {
+  display: flex;
+  gap: 1.5rem;
+}
+
+nav ul,
+.footer-services ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav a {
+  font-size: 1rem;
+  letter-spacing: 0.03rem;
+}
+
+nav a::after {
+  display: block;
+  content: "";
+  border-bottom: solid 2px var(--accent-color);
+  transform: scaleX(0);
+  transition: transform 0.4s;
+}
+
+nav a:hover::after {
+  transform: scaleX(1);
+}
